@@ -1,0 +1,10 @@
+------------------------
+Inicio de Actividad Thu Apr 18 2024 16:30:58 GMT-0300 (hora estándar de Argentina)
+Fecha Actual Fri Apr 19 2024 14:23:52 GMT-0300 (hora estándar de Argentina)
+El servidor estuvo activo 21.88 horas
+Procesador 
+[{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":3927375,"nice":0,"sys":2399937,"idle":27877765,"irq":647296}},{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":3362093,"nice":0,"sys":775156,"idle":30067640,"irq":25015}},{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":4929046,"nice":0,"sys":1484343,"idle":27791500,"irq":33375}},{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":3371093,"nice":0,"sys":813250,"idle":30020546,"irq":17125}},{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":4361453,"nice":0,"sys":1270671,"idle":28572765,"irq":29062}},{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":3508359,"nice":0,"sys":714468,"idle":29982062,"irq":15765}},{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":3688781,"nice":0,"sys":1104593,"idle":29411515,"irq":23625}},{"model":"Intel(R) Core(TM) i7-4790S CPU @ 3.20GHz","speed":3193,"times":{"user":4092656,"nice":0,"sys":1325343,"idle":28786890,"irq":17515}}]
+Memoria Total 15.89645767211914
+Memoria Libre 7.616016387939453
+Memoria Usada 8.280441284179688
+Intefaces de redes {"Ethernet":[{"address":"fe80::15a6:428b:a85c:6340","netmask":"ffff:ffff:ffff:ffff::","family":"IPv6","mac":"40:8d:5c:2a:90:9c","internal":false,"cidr":"fe80::15a6:428b:a85c:6340/64","scopeid":16},{"address":"192.168.0.25","netmask":"255.255.255.0","family":"IPv4","mac":"40:8d:5c:2a:90:9c","internal":false,"cidr":"192.168.0.25/24"}],"Loopback Pseudo-Interface 1":[{"address":"::1","netmask":"ffff:ffff:ffff:ffff:ffff:ffff:ffff:ffff","family":"IPv6","mac":"00:00:00:00:00:00","internal":true,"cidr":"::1/128","scopeid":0},{"address":"127.0.0.1","netmask":"255.0.0.0","family":"IPv4","mac":"00:00:00:00:00:00","internal":true,"cidr":"127.0.0.1/8"}]}

@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "nombre": "Camiseta de algodón",
+      "stock": 50,
+      "precio": 15.99
+    },
+    {
+      "id": 2,
+      "nombre": "Zapatos deportivos",
+      "stock": 25,
+      "precio": 49.99
+    },
+    {
+      "id": 3,
+      "nombre": "Portátil HP",
+      "stock": 10,
+      "precio": 799.99
+    },
+    {
+      "id": 4,
+      "nombre": "Libro de cocina italiana",
+      "stock": 100,
+      "precio": 29.99
+    },
+    {
+      "id": 5,
+      "nombre": "Auriculares Bluetooth",
+      "stock": 30,
+      "precio": 39.99
+    }
+  ]
